@@ -136,7 +136,3 @@ The required libraries are:
 3. Install the libraries listed in `requirements.txt`.
 4. Open `nsl_kdd_intrusion_detection.ipynb`.
 5. Run all notebook cells from top to bottom.
-
-## AI Assistance
-
-I began this project with little knowledge of machine learning and no previous experience using pandas, scikit-learn, or PyTorch. I used AI assistance and educational videos to learn unfamiliar concepts and support parts of the implementation, particularly the PyTorch portion. I ran, reviewed, and tested the code, using this project as an opportunity to develop my understanding of the machine-learning workflow.
